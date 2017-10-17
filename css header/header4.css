@@ -1,0 +1,27 @@
+.a {
+background-color:yellow;
+height:70px;
+width:700px;
+margin-left:200px;
+margin-top:120px;
+}
+.b {
+	word-spacing:10px;
+	font-size:12px;
+	margin-left:240px;
+	margin-top:-63px;
+	color:pink;
+}
+.c {
+	margin-left:240px;
+	margin-top:16px;
+	font-size:20px;
+	color:black;
+}
+input {
+	height:28px;
+	width:350px;
+	margin-left:340px;
+	margin-top:-26px;
+	
+}

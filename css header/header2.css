@@ -1,0 +1,29 @@
+.a {
+border:1px solid grey;
+background-color:lightgrey;
+height:100px;
+width:500px;
+margin-left:350px;
+margin-top:200px;
+}
+.b {
+	margin-left:380px;
+	margin-top:-67px;
+	color:blue;
+	font-size:30px;
+	text-decoration:underline;
+}
+.c {
+	margin-left:555px;
+	margin-top:-34px;
+	color:blue;
+	font-size:30px;
+	text-decoration:underline;
+}
+.d {
+	margin-left:740px;
+	margin-top:-34px;
+	color:blue;
+	font-size:30px;
+	text-decoration:underline;
+}
