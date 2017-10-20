@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+   margin-left:300px;
+   margin-top:150px;
+    padding: 0;
+    overflow: hidden;
+    background-color: 	 #2E8B57;
+	width:50%;
+	opacity:10;
+	}
+
+li {
+    float: left;
+    border-right:1px solid white;
+	margin-left:50px;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+   
+    padding: 14px 16px;
+    text-decoration: none;
+	margin-left:-10px;
+	font-style:italic;
+	font-size:20px;
+	
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
